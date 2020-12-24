@@ -9,7 +9,7 @@ This App is created by Using the SQLite Data base. A light weight database all t
 
 I have created an online Tutorial Series for this repo on my YouTube Channel
 
-## Learn Tthe app Development of Trivia Quiz App in Android Studio
+## Learn the app Development of Trivia Quiz App in Android Studio
 Whose link is: https://youtube.com/playlist?list=PLYaEKGt6xfkv3r4VY5Mnw0-l7-aip42qE
 
 To get better idea how this app is created you can watch the entire series on YouTube.
