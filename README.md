@@ -1,7 +1,7 @@
 # TriviaQuizApp
-Built with Android SQLite
 
-A Trivia Quiz Application built by using SQLite Database
+# Topics that Covered in this Project
+
 
 Hey!
 
@@ -30,3 +30,18 @@ You Can See the Screenshots of the Quiz Application:
 If you have any queries or suggestions you can follow me on instagram: @dino_coder
 
 You are welcome to suggest any changes, just send a pull request or you can E-mail me at: testingvijaycode@gmail.com
+
+Features
+========
+- Educational (based on Exam).
+- It has database to store questions 
+- Infinte Timer for the entire Quiz (Will be fixed in the advanced Quiz App)
+- Random questions in exam 
+- Good and Extensible UI.
+- It's offline
+- Compatibility with Android API-25 and above
+- minSdkVersion 14
+- targetSdkVersion 29 (Android Pie)
+- also supports android 10 (with song play functionality in the background while you play Trivia Quiz)
+
+***
