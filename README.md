@@ -15,4 +15,4 @@ To get better idea how this app is created you can watch the entire series on Yo
 
 You Can See the Screenshots of the Quiz Application:
 
-❮img src="images//blob/master/app/src/main/assets/quizimg.png" width="50" ❯
+❮img src="quizimg.png" width="50" ❯
